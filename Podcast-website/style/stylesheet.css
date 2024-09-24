@@ -1,0 +1,42 @@
+ h1 {
+    border: 2em aquamarine solid; 
+    color: #FF8811;
+    background-color: #A6A867;
+    font-style: oblique;
+    font-weight: 700;
+    font-size: xx-large;
+ }
+
+ body {
+    border: 1em green solid;
+    background-color: blueviolet;   
+ }
+
+footer {
+    color: #FFC914;
+    background-color: red
+}
+
+nav a {
+    color:deeppink;
+}
+
+main section {
+    width: 40%;
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
